@@ -1,9 +1,8 @@
 <h1 align="center">Exercício EBAC Testes de Performance</h1>
 
-<!-- <p align="center"><img src="img/ebac.png" width="80%"/></p> -->
+<p align="center"><img src="img/ebac.png" width="50%"/></p>
 
 --------
-
 ## Configurando o Ambiente :gear
 
 - [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi)
